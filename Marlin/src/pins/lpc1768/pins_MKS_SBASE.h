@@ -50,7 +50,7 @@
 #define SERVO1_PIN         P2_12   // J8-4
 #define SERVO2_PIN         P2_11   // J8-5
 #define SERVO3_PIN         P4_28   // J8-6
-
+#define  FIL_RUNOUT_PIN   P1_29
 //
 // Limit Switches - Not Interrupt Capable
 //
@@ -59,10 +59,10 @@
 #define Y_MIN_PIN          P1_26   // 10k pullup to 3.3V, 1K series
 #define Y_MAX_PIN          P1_27   // 10k pullup to 3.3V, 1K series
 #define Z_MIN_PIN          P1_28   // The original Mks Sbase DIO19 has a 10k pullup to 3.3V or 5V, 1K series, so when using a Zprobe we must use DIO41 (J8 P1.22)
-#define Z_MAX_PIN          P1_29   // 10k pullup to 3.3V, 1K series
+//#define Z_MAX_PIN          P1_29   // 10k pullup to 3.3V, 1K series
 
 #ifndef Z_MIN_PROBE_PIN
-  #define Z_MIN_PROBE_PIN  P4_28   // Connector J8
+  #define Z_MIN_PROBE_PIN  P1_23   // Connector J8
 #endif
 
 //
