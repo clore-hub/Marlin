@@ -106,6 +106,7 @@
 #ifndef FAN_PIN
   #define FAN_PIN			P2_04
 #endif
+
 #ifndef FAN1_PIN                  /////SC 28.02.20: neu definiert?
   #define FAN1_PIN          P2_06
 #endif
