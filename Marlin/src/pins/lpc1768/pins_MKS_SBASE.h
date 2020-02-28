@@ -46,7 +46,7 @@
 //
 // Servos
 //
-#define SERVO0_PIN         P1_23   // J8-3 (low jitter)
+#define SERVO0_PIN         P1_23   // J8-3 (low jitter)  
 #define SERVO1_PIN         P2_12   // J8-4
 #define SERVO2_PIN         P2_11   // J8-5
 #define SERVO3_PIN         P4_28   // J8-6
@@ -80,13 +80,13 @@
 #define Z_DIR_PIN          P0_20
 #define Z_ENABLE_PIN       P0_19
 
-#define E0_STEP_PIN        P2_03
-#define E0_DIR_PIN         P0_22
-#define E0_ENABLE_PIN      P0_21
+#define E1_STEP_PIN        P2_03  // SC280220: Achtung, Pins E1 mit E0 getauscht (auf Board: E0=P0.21, P2.3,P0.22!)
+#define E1_DIR_PIN         P0_22
+#define E1_ENABLE_PIN      P0_21
 
-#define E1_STEP_PIN        P2_08
-#define E1_DIR_PIN         P2_13
-#define E1_ENABLE_PIN      P4_29
+#define E0_STEP_PIN        P2_08
+#define E0_DIR_PIN         P2_13
+#define E0_ENABLE_PIN      P4_29
 
 //
 // Temperature Sensors
@@ -102,11 +102,14 @@
 //
 #define HEATER_BED_PIN     P2_05
 #define HEATER_0_PIN       P2_07
-#define HEATER_1_PIN       P2_06
+//#define HEATER_1_PIN       P2_06
 #ifndef FAN_PIN
-  #define FAN_PIN          P2_04
+  #define FAN_PIN			P2_04
 #endif
 
+#ifndef FAN1_PIN                  /////SC 28.02.20: neu definiert?
+  #define FAN1_PIN          P2_06
+#endif
 //
 // Connector J7
 // Note: These pins are all digitally shared with the EXP1/EXP2 Connector.
