@@ -181,3 +181,382 @@ cmake-build-*
 
 #Python
 __pycache__
+config/default/Configuration_adv.h
+config/default/Configuration.h
+config/examples/3DFabXYZ/Migbot/Configuration_adv.h
+config/examples/3DFabXYZ/Migbot/Configuration.h
+config/examples/3DFabXYZ/Migbot/Readme.md
+config/examples/ADIMLab/Gantry v1/_Bootscreen.h
+config/examples/ADIMLab/Gantry v1/Configuration_adv.h
+config/examples/ADIMLab/Gantry v1/Configuration.h
+config/examples/ADIMLab/Gantry v2/_Bootscreen.h
+config/examples/ADIMLab/Gantry v2/Configuration_adv.h
+config/examples/ADIMLab/Gantry v2/Configuration.h
+config/examples/AlephObjects/TAZ4/Configuration_adv.h
+config/examples/AlephObjects/TAZ4/Configuration.h
+config/examples/Alfawise/U20/_Statusscreen.h
+config/examples/Alfawise/U20/Configuration_adv.h
+config/examples/Alfawise/U20/Configuration.h
+config/examples/Alfawise/U20-bltouch/_Statusscreen.h
+config/examples/Alfawise/U20-bltouch/Configuration_adv.h
+config/examples/Alfawise/U20-bltouch/Configuration.h
+config/examples/AliExpress/CL-260/Configuration.h
+config/examples/AliExpress/CL-260/README.txt
+config/examples/AliExpress/UM2pExt/Configuration_adv.h
+config/examples/AliExpress/UM2pExt/Configuration.h
+config/examples/Anet/A2/Configuration_adv.h
+config/examples/Anet/A2/Configuration.h
+config/examples/Anet/A2plus/Configuration_adv.h
+config/examples/Anet/A2plus/Configuration.h
+config/examples/Anet/A6/_Statusscreen.h
+config/examples/Anet/A6/Configuration_adv.h
+config/examples/Anet/A6/Configuration.h
+config/examples/Anet/A8/_Statusscreen.h
+config/examples/Anet/A8/Configuration_adv.h
+config/examples/Anet/A8/Configuration.h
+config/examples/Anet/A8plus/_Statusscreen.h
+config/examples/Anet/A8plus/Configuration_adv.h
+config/examples/Anet/A8plus/Configuration.h
+config/examples/Anet/E10/Configuration_adv.h
+config/examples/Anet/E10/Configuration.h
+config/examples/Anet/E16/_Bootscreen.h
+config/examples/Anet/E16/_Statusscreen.h
+config/examples/Anet/E16/Configuration_adv.h
+config/examples/Anet/E16/Configuration.h
+config/examples/AnimationExample/_Bootscreen.h
+config/examples/AnyCubic/i3/Configuration_adv.h
+config/examples/AnyCubic/i3/Configuration.h
+config/examples/ArmEd/Configuration_adv.h
+config/examples/ArmEd/Configuration.h
+config/examples/Artillery/Genius/_Bootscreen.h
+config/examples/Artillery/Genius/Configuration_adv.h
+config/examples/Artillery/Genius/Configuration.h
+config/examples/Artillery/Sidewinder X1/_Bootscreen.h
+config/examples/Artillery/Sidewinder X1/Configuration_adv.h
+config/examples/Artillery/Sidewinder X1/Configuration.h
+config/examples/Azteeg/X5GT/Configuration.h
+config/examples/BIBO/TouchX/cyclops/Configuration_adv.h
+config/examples/BIBO/TouchX/cyclops/Configuration.h
+config/examples/BIBO/TouchX/default/Configuration_adv.h
+config/examples/BIBO/TouchX/default/Configuration.h
+config/examples/BQ/Hephestos/Configuration_adv.h
+config/examples/BQ/Hephestos/Configuration.h
+config/examples/BQ/Hephestos_2/_Bootscreen.h
+config/examples/BQ/Hephestos_2/Configuration_adv.h
+config/examples/BQ/Hephestos_2/Configuration.h
+config/examples/BQ/Hephestos_2/README.md
+config/examples/BQ/WITBOX/Configuration_adv.h
+config/examples/BQ/WITBOX/Configuration.h
+config/examples/BigTreeTech/SKR Mini E3 1.0/Configuration_adv.h
+config/examples/BigTreeTech/SKR Mini E3 1.0/Configuration.h
+config/examples/BigTreeTech/SKR Mini E3 1.2/Configuration_adv.h
+config/examples/BigTreeTech/SKR Mini E3 1.2/Configuration.h
+config/examples/Cartesio/_Bootscreen.h
+config/examples/Cartesio/Configuration_adv.h
+config/examples/Cartesio/Configuration.h
+config/examples/Creality/CR-10/_Bootscreen.h
+config/examples/Creality/CR-10/_Statusscreen.h
+config/examples/Creality/CR-10/Configuration_adv.h
+config/examples/Creality/CR-10/Configuration.h
+config/examples/Creality/CR-10S/_Bootscreen.h
+config/examples/Creality/CR-10S/_Statusscreen.h
+config/examples/Creality/CR-10S/Configuration_adv.h
+config/examples/Creality/CR-10S/Configuration.h
+config/examples/Creality/CR-10_5S/_Bootscreen.h
+config/examples/Creality/CR-10_5S/Configuration_adv.h
+config/examples/Creality/CR-10_5S/Configuration.h
+config/examples/Creality/CR-10mini/_Bootscreen.h
+config/examples/Creality/CR-10mini/_Statusscreen.h
+config/examples/Creality/CR-10mini/Configuration_adv.h
+config/examples/Creality/CR-10mini/Configuration.h
+config/examples/Creality/CR-20/Configuration_adv.h
+config/examples/Creality/CR-20/Configuration.h
+config/examples/Creality/CR-20 Pro/_Statusscreen.h
+config/examples/Creality/CR-20 Pro/Configuration_adv.h
+config/examples/Creality/CR-20 Pro/Configuration.h
+config/examples/Creality/CR-8/Configuration_adv.h
+config/examples/Creality/CR-8/Configuration.h
+config/examples/Creality/Ender-2/_Bootscreen.h
+config/examples/Creality/Ender-2/_Statusscreen.h
+config/examples/Creality/Ender-2/Configuration_adv.h
+config/examples/Creality/Ender-2/Configuration.h
+config/examples/Creality/Ender-2/README.md
+config/examples/Creality/Ender-3/_Bootscreen.h
+config/examples/Creality/Ender-3/_Statusscreen.h
+config/examples/Creality/Ender-3/Configuration_adv.h
+config/examples/Creality/Ender-3/Configuration.h
+config/examples/Creality/Ender-4/Configuration_adv.h
+config/examples/Creality/Ender-4/Configuration.h
+config/examples/Creality/Ender-5/_Bootscreen.h
+config/examples/Creality/Ender-5/_Statusscreen.h
+config/examples/Creality/Ender-5/Configuration_adv.h
+config/examples/Creality/Ender-5/Configuration.h
+config/examples/Creality/Ender-5/README.md
+config/examples/Creality/Ender-5 Pro/_Bootscreen.h
+config/examples/Creality/Ender-5 Pro/_Statusscreen.h
+config/examples/Creality/Ender-5 Pro/Configuration_adv.h
+config/examples/Creality/Ender-5 Pro/Configuration.h
+config/examples/Dagoma/Disco Ultimate/Configuration_adv.h
+config/examples/Dagoma/Disco Ultimate/Configuration.h
+config/examples/EXP3D/Imprimante multifonction/Configuration_adv.h
+config/examples/EXP3D/Imprimante multifonction/Configuration.h
+config/examples/Einstart-S/Configuration_adv.h
+config/examples/Einstart-S/Configuration.h
+config/examples/Einstart-S/readme.md
+config/examples/FYSETC/AIO_II/Configuration_adv.h
+config/examples/FYSETC/AIO_II/Configuration.h
+config/examples/FYSETC/Cheetah/BLTouch/Configuration_adv.h
+config/examples/FYSETC/Cheetah/BLTouch/Configuration.h
+config/examples/FYSETC/Cheetah/base/Configuration_adv.h
+config/examples/FYSETC/Cheetah/base/Configuration.h
+config/examples/FYSETC/Cheetah 1.2/BLTouch/Configuration_adv.h
+config/examples/FYSETC/Cheetah 1.2/BLTouch/Configuration.h
+config/examples/FYSETC/Cheetah 1.2/base/Configuration_adv.h
+config/examples/FYSETC/Cheetah 1.2/base/Configuration.h
+config/examples/FYSETC/F6_13/Configuration_adv.h
+config/examples/FYSETC/F6_13/Configuration.h
+config/examples/FYSETC/S6/Configuration_adv.h
+config/examples/FYSETC/S6/Configuration.h
+config/examples/Felix/DUAL/Configuration_adv.h
+config/examples/Felix/DUAL/Configuration.h
+config/examples/Felix/DUAL/README.md
+config/examples/Felix/Single/Configuration_adv.h
+config/examples/Felix/Single/Configuration.h
+config/examples/Felix/Single/README.md
+config/examples/FlashForge/CreatorPro/Configuration_adv.h
+config/examples/FlashForge/CreatorPro/Configuration.h
+config/examples/FlashForge/CreatorPro/CuraSettings.txt
+config/examples/FolgerTech/i3-2020/Configuration_adv.h
+config/examples/FolgerTech/i3-2020/Configuration.h
+config/examples/Formbot/Raptor/_Bootscreen.h
+config/examples/Formbot/Raptor/_Statusscreen.h
+config/examples/Formbot/Raptor/Configuration_adv.h
+config/examples/Formbot/Raptor/Configuration.h
+config/examples/Formbot/T_Rex_2+/_Bootscreen.h
+config/examples/Formbot/T_Rex_2+/_Statusscreen.h
+config/examples/Formbot/T_Rex_2+/Configuration_adv.h
+config/examples/Formbot/T_Rex_2+/Configuration.h
+config/examples/Formbot/T_Rex_3/_Bootscreen.h
+config/examples/Formbot/T_Rex_3/_Statusscreen.h
+config/examples/Formbot/T_Rex_3/Configuration_adv.h
+config/examples/Formbot/T_Rex_3/Configuration.h
+config/examples/Geeetech/A10/Configuration_adv.h
+config/examples/Geeetech/A10/Configuration.h
+config/examples/Geeetech/A10D/Configuration_adv.h
+config/examples/Geeetech/A10D/Configuration.h
+config/examples/Geeetech/A10M/Configuration_adv.h
+config/examples/Geeetech/A10M/Configuration.h
+config/examples/Geeetech/A10T/Configuration_adv.h
+config/examples/Geeetech/A10T/Configuration.h
+config/examples/Geeetech/A20/Configuration_adv.h
+config/examples/Geeetech/A20/Configuration.h
+config/examples/Geeetech/A20M/Configuration_adv.h
+config/examples/Geeetech/A20M/Configuration.h
+config/examples/Geeetech/A20T/Configuration_adv.h
+config/examples/Geeetech/A20T/Configuration.h
+config/examples/Geeetech/A30/Configuration_adv.h
+config/examples/Geeetech/A30/Configuration.h
+config/examples/Geeetech/D200/Configuration_adv.h
+config/examples/Geeetech/D200/Configuration.h
+config/examples/Geeetech/Duplicator5/Configuration_adv.h
+config/examples/Geeetech/Duplicator5/Configuration.h
+config/examples/Geeetech/E180/Configuration_adv.h
+config/examples/Geeetech/E180/Configuration.h
+config/examples/Geeetech/GT2560/Configuration.h
+config/examples/Geeetech/I3_Pro_X-GT2560/Configuration.h
+config/examples/Geeetech/M201/Configuration_adv.h
+config/examples/Geeetech/M201/Configuration.h
+config/examples/Geeetech/MeCreator2/Configuration_adv.h
+config/examples/Geeetech/MeCreator2/Configuration.h
+config/examples/Geeetech/Me_creator/Configuration_adv.h
+config/examples/Geeetech/Me_creator/Configuration.h
+config/examples/Geeetech/Me_ducer/Configuration_adv.h
+config/examples/Geeetech/Me_ducer/Configuration.h
+config/examples/Geeetech/PI3A PRO/Configuration_adv.h
+config/examples/Geeetech/PI3A PRO/Configuration.h
+config/examples/Geeetech/Prusa i3 Pro B/bltouch/Configuration.h
+config/examples/Geeetech/Prusa i3 Pro B/bltouch/README.md
+config/examples/Geeetech/Prusa i3 Pro B/noprobe/Configuration.h
+config/examples/Geeetech/Prusa i3 Pro B/noprobe/README.md
+config/examples/Geeetech/Prusa i3 Pro C/Configuration_adv.h
+config/examples/Geeetech/Prusa i3 Pro C/Configuration.h
+config/examples/Geeetech/Prusa i3 Pro W/Configuration_adv.h
+config/examples/Geeetech/Prusa i3 Pro W/Configuration.h
+config/examples/HMS434/Configuration_adv.h
+config/examples/HMS434/Configuration.h
+config/examples/Infitary/i3-M508/Configuration_adv.h
+config/examples/Infitary/i3-M508/Configuration.h
+config/examples/JGAurora/A1/Configuration_adv.h
+config/examples/JGAurora/A1/Configuration.h
+config/examples/JGAurora/A5/Configuration_adv.h
+config/examples/JGAurora/A5/Configuration.h
+config/examples/JGAurora/A5/README.md
+config/examples/JGAurora/A5S/Configuration_adv.h
+config/examples/JGAurora/A5S/Configuration.h
+config/examples/JGAurora/Magic/Configuration_adv.h
+config/examples/JGAurora/Magic/Configuration.h
+config/examples/MakerFarm/Pegasus_12/Configuration_adv.h
+config/examples/MakerFarm/Pegasus_12/Configuration.h
+config/examples/MakerParts/_Bootscreen.h
+config/examples/MakerParts/Configuration_adv.h
+config/examples/MakerParts/Configuration.h
+config/examples/Malyan/M150/_Bootscreen.h
+config/examples/Malyan/M150/Configuration_adv.h
+config/examples/Malyan/M150/Configuration.h
+config/examples/Malyan/M150/README.md
+config/examples/Malyan/M200/Configuration_adv.h
+config/examples/Malyan/M200/Configuration.h
+config/examples/Malyan/M200/README.md
+config/examples/Micromake/C1/basic/Configuration.h
+config/examples/Micromake/C1/basic/README.md
+config/examples/Micromake/C1/enhanced/Configuration_adv.h
+config/examples/Micromake/C1/enhanced/Configuration.h
+config/examples/Micromake/C1/enhanced/README.md
+config/examples/Mks/Robin/Configuration_adv.h
+config/examples/Mks/Robin/Configuration.h
+config/examples/Mks/Robin_Lite3/Configuration.h
+config/examples/Mks/Robin_Lite3/ReadMe.txt
+config/examples/Mks/Robin_Pro/Configuration.h
+config/examples/Mks/Robin_Pro/ReadMe.txt
+config/examples/Mks/Sbase/Configuration_adv.h
+config/examples/Mks/Sbase/Configuration.h
+config/examples/Mks/Sbase/README.txt
+config/examples/Modix/Big60/_Bootscreen.h
+config/examples/Modix/Big60/_Statusscreen.h
+config/examples/Modix/Big60/Configuration_adv.h
+config/examples/Modix/Big60/Configuration.h
+config/examples/Printrbot/PrintrboardG2/Configuration.h
+config/examples/RapideLite/RL200/Configuration_adv.h
+config/examples/RapideLite/RL200/Configuration.h
+config/examples/Renkforce/RF100/Configuration_adv.h
+config/examples/Renkforce/RF100/Configuration.h
+config/examples/Renkforce/RF100XL/Configuration_adv.h
+config/examples/Renkforce/RF100XL/Configuration.h
+config/examples/Renkforce/RF100v2/Configuration_adv.h
+config/examples/Renkforce/RF100v2/Configuration.h
+config/examples/RepRapPro/Huxley/Configuration.h
+config/examples/RepRapWorld/Megatronics/Configuration.h
+config/examples/RigidBot/Configuration_adv.h
+config/examples/RigidBot/Configuration.h
+config/examples/SCARA/MP_SCARA/Configuration_adv.h
+config/examples/SCARA/MP_SCARA/Configuration.h
+config/examples/SCARA/Morgan/Configuration_adv.h
+config/examples/SCARA/Morgan/Configuration.h
+config/examples/STM32/Black_STM32F407VET6/Configuration_adv.h
+config/examples/STM32/Black_STM32F407VET6/Configuration.h
+config/examples/STM32/STM32F103RE/Configuration.h
+config/examples/STM32/STM32F4/Configuration.h
+config/examples/STM32/stm32f103ret6/Configuration.h
+config/examples/Sanguinololu/Configuration_adv.h
+config/examples/Sanguinololu/Configuration.h
+config/examples/Tevo/Michelangelo/_Bootscreen.h
+config/examples/Tevo/Michelangelo/Configuration_adv.h
+config/examples/Tevo/Michelangelo/Configuration.h
+config/examples/Tevo/Nereus/_Bootscreen.h
+config/examples/Tevo/Nereus/Configuration_adv.h
+config/examples/Tevo/Nereus/Configuration.h
+config/examples/Tevo/Tarantula Pro/_Bootscreen.h
+config/examples/Tevo/Tarantula Pro/Configuration_adv.h
+config/examples/Tevo/Tarantula Pro/Configuration.h
+config/examples/Tevo/Tornado/V1 (MKS Base)/_Bootscreen.h
+config/examples/Tevo/Tornado/V1 (MKS Base)/Configuration_adv.h
+config/examples/Tevo/Tornado/V1 (MKS Base)/Configuration.h
+config/examples/Tevo/Tornado/V2 (MKS GEN-L)/_Bootscreen.h
+config/examples/Tevo/Tornado/V2 (MKS GEN-L)/Configuration_adv.h
+config/examples/Tevo/Tornado/V2 (MKS GEN-L)/Configuration.h
+config/examples/TheBorg/Configuration_adv.h
+config/examples/TheBorg/Configuration.h
+config/examples/TinyBoy2/Configuration_adv.h
+config/examples/TinyBoy2/Configuration.h
+config/examples/Tronxy/X1/Configuration.h
+config/examples/Tronxy/X3A/Configuration_adv.h
+config/examples/Tronxy/X3A/Configuration.h
+config/examples/Tronxy/X5S/Configuration.h
+config/examples/Tronxy/X5S-2E/Configuration_adv.h
+config/examples/Tronxy/X5S-2E/Configuration.h
+config/examples/Tronxy/XY100/Configuration.h
+config/examples/UltiMachine/Archim1/Configuration_adv.h
+config/examples/UltiMachine/Archim1/Configuration.h
+config/examples/UltiMachine/Archim2/Configuration_adv.h
+config/examples/UltiMachine/Archim2/Configuration.h
+config/examples/VORONDesign/_Bootscreen.h
+config/examples/VORONDesign/Configuration_adv.h
+config/examples/VORONDesign/Configuration.h
+config/examples/Velleman/K8200/Configuration_adv.h
+config/examples/Velleman/K8200/Configuration.h
+config/examples/Velleman/K8200/README.md
+config/examples/Velleman/K8400/Dual-head/Configuration_adv.h
+config/examples/Velleman/K8400/Dual-head/Configuration.h
+config/examples/Velleman/K8400/Dual-head/README.md
+config/examples/Velleman/K8400/Single-head/Configuration_adv.h
+config/examples/Velleman/K8400/Single-head/Configuration.h
+config/examples/Velleman/K8400/Single-head/README.md
+config/examples/WASP/PowerWASP/Configuration_adv.h
+config/examples/WASP/PowerWASP/Configuration.h
+config/examples/WASP/PowerWASP/README.md
+config/examples/Wanhao/Duplicator 6/Configuration_adv.h
+config/examples/Wanhao/Duplicator 6/Configuration.h
+config/examples/Wanhao/Duplicator i3 2.1/_Bootscreen.h
+config/examples/Wanhao/Duplicator i3 2.1/Chippy_Bootscreen.h
+config/examples/Wanhao/Duplicator i3 2.1/Configuration_adv.h
+config/examples/Wanhao/Duplicator i3 2.1/Configuration.h
+config/examples/Wanhao/Duplicator i3 2.1/README.md
+config/examples/Wanhao/Duplicator i3 Mini/_Bootscreen.h
+config/examples/Wanhao/Duplicator i3 Mini/Configuration_adv.h
+config/examples/Wanhao/Duplicator i3 Mini/Configuration.h
+config/examples/adafruit/ST7565/Configuration.h
+config/examples/delta/Anycubic/Kossel/Configuration_adv.h
+config/examples/delta/Anycubic/Kossel/Configuration.h
+config/examples/delta/Anycubic/Kossel/README.md
+config/examples/delta/Anycubic/Kossel/images/Version1Probe.jpg
+config/examples/delta/Anycubic/Kossel/images/Version2Probe.jpg
+config/examples/delta/Dreammaker/Overlord/_Bootscreen.h
+config/examples/delta/Dreammaker/Overlord/Configuration_adv.h
+config/examples/delta/Dreammaker/Overlord/Configuration.h
+config/examples/delta/Dreammaker/Overlord_Pro/_Bootscreen.h
+config/examples/delta/Dreammaker/Overlord_Pro/Configuration_adv.h
+config/examples/delta/Dreammaker/Overlord_Pro/Configuration.h
+config/examples/delta/FLSUN/QQ-S/Configuration_adv.h
+config/examples/delta/FLSUN/QQ-S/Configuration.h
+config/examples/delta/FLSUN/auto_calibrate/Configuration_adv.h
+config/examples/delta/FLSUN/auto_calibrate/Configuration.h
+config/examples/delta/FLSUN/kossel/Configuration_adv.h
+config/examples/delta/FLSUN/kossel/Configuration.h
+config/examples/delta/FLSUN/kossel_mini/Configuration_adv.h
+config/examples/delta/FLSUN/kossel_mini/Configuration.h
+config/examples/delta/Geeetech/G2/Configuration_adv.h
+config/examples/delta/Geeetech/G2/Configuration.h
+config/examples/delta/Geeetech/G2Pro/Configuration_adv.h
+config/examples/delta/Geeetech/G2Pro/Configuration.h
+config/examples/delta/Geeetech/G2S/Configuration_adv.h
+config/examples/delta/Geeetech/G2S/Configuration.h
+config/examples/delta/Geeetech/G2SPro/Configuration_adv.h
+config/examples/delta/Geeetech/G2SPro/Configuration.h
+config/examples/delta/Geeetech/Rostock 301/Configuration_adv.h
+config/examples/delta/Geeetech/Rostock 301/Configuration.h
+config/examples/delta/Hatchbox_Alpha/Configuration.h
+config/examples/delta/MKS/SBASE/Configuration_adv.h
+config/examples/delta/MKS/SBASE/Configuration.h
+config/examples/delta/MKS/SBASE/RRD Full Graphic Smart Controller.md
+config/examples/delta/Tevo Little Monster/Configuration_adv.h
+config/examples/delta/Tevo Little Monster/Configuration.h
+config/examples/delta/generic/Configuration_adv.h
+config/examples/delta/generic/Configuration.h
+config/examples/delta/kossel_clear/Configuration_adv.h
+config/examples/delta/kossel_clear/Configuration.h
+config/examples/delta/kossel_mini/Configuration_adv.h
+config/examples/delta/kossel_mini/Configuration.h
+config/examples/delta/kossel_pro/Configuration.h
+config/examples/delta/kossel_pro/README.md
+config/examples/delta/kossel_xl/Configuration_adv.h
+config/examples/delta/kossel_xl/Configuration.h
+config/examples/delta/kossel_xl/README.md
+config/examples/gCreate/gMax1.5+/_Bootscreen.h
+config/examples/gCreate/gMax1.5+/Configuration_adv.h
+config/examples/gCreate/gMax1.5+/Configuration.h
+config/examples/makibox/Configuration_adv.h
+config/examples/makibox/Configuration.h
+config/examples/tvrrug/Round2/Configuration_adv.h
+config/examples/tvrrug/Round2/Configuration.h
+config/examples/wt150/Configuration_adv.h
+config/examples/wt150/Configuration.h
