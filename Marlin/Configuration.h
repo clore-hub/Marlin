@@ -102,15 +102,18 @@
  * Note: The first serial port (-1 or 0) will always be used by the Arduino bootloader.
  *
  * :[-1, 0, 1, 2, 3, 4, 5, 6, 7]
+ * //SC: MKS-SBASE : -1 =USB, 0 =TX/RX auf AUX-1
  */
-#define SERIAL_PORT -1
+#define SERIAL_PORT 0
 
 /**
  * Select a secondary serial port on the board to use for communication with the host.
  * This allows the connection of wireless adapters (for instance) to non-default port pins.
  * Serial port -1 is the USB emulated serial port, if available.
  *
- * :[-1, 0, 1, 2, 3, 4, 5, 6, 7]
+ * :[-1, 0, 1, 2, 3, 4, 5, 6, 7 * 
+ * //SC: MKS-SBASE : -1 =USB, 0 =TX/RX auf AUX-1], ggfls 2.(1.) Port deaktivieren
+ * 
  */
 //#define SERIAL_PORT_2 0
 
@@ -683,11 +686,8 @@
 //#define Z3_DRIVER_TYPE A4988
 //#define Z4_DRIVER_TYPE A4988
 #define E0_DRIVER_TYPE DRV8825
-<<<<<<< HEAD
 //#define E1_DRIVER_TYPE DRV8825
-=======
 #define E1_DRIVER_TYPE DRV8825
->>>>>>> 0b1f62c938afbdf65f30e5883e4598f3e86818a1
 //#define E2_DRIVER_TYPE DRV8825
 //#define E3_DRIVER_TYPE A4988
 //#define E4_DRIVER_TYPE A4988
@@ -738,7 +738,7 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 160, 800, 190 } //**SC** E calibriert 12.02.2020
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 160, 160, 800, 181 } //**SC** E calibriert 12.02.2020
 // SBASE: { 200, 200, 800, 280 }
 /**
  * Default Max Feed Rate (mm/s)
@@ -1730,7 +1730,7 @@
 //
 // Add individual axis homing items (Home X, Home Y, and Home Z) to the LCD menu.
 //
-//#define INDIVIDUAL_AXIS_HOMING_MENU
+#define INDIVIDUAL_AXIS_HOMING_MENU
 
 //
 // SPEAKER/BUZZER
